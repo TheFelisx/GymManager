@@ -1,0 +1,12 @@
+administrador:
+
+usuario: admin    contraseña: admin123
+
+recepcionista:
+
+recepcion contraseña: recepcion123
+
+guardia:
+
+guardia   contraseña : guardia
+
